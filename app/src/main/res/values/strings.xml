@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Snooker</string>
+    <string name="red_ball">Red</string>
+    <string name="yellow_ball">Yellow</string>
+    <string name="green_ball">Green</string>
+    <string name="brown_ball">Brown</string>
+    <string name="blue_ball">Blue</string>
+    <string name="pink_ball">Pink</string>
+    <string name="black_ball">Black</string>
+
+</resources>
